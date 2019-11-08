@@ -8,4 +8,5 @@ end
 
 def oxford_comma(three_elements)
   three_elements.join(' ')
+  three_elements.last1.join(' and ')
 end
